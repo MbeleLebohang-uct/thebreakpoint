@@ -1,0 +1,68 @@
+{
+  "name": "The Blackbox",
+  "subtitle": "Spacious Karoo Living with a Shower",
+  "description": "Our larger room Blackbox is perfect for those who appreciate a bit more space, just 6km from the Karoo National Park. This room has all you need for a comfortable stay, featuring a shower bathroom and a basic kitchenette perfect for lingering meals while on the road. Blackbox is where space meets comfort.",
+  "amenities": [
+    { "icon": "Wifi", "label": "Fast, reliable WiFi" },
+    { "icon": "AirVent", "label": "Air conditioning" },
+    { "icon": "Coffee", "label": "Basic kitchenette" },
+    { "icon": "Bed", "label": "Queen size bed" },
+    { "icon": "Bath", "label": "Ensuite bathroom" }
+  ],
+  "galleryImages": [
+    {
+      "src": "/blackbox/bedroom.jpg",
+      "alt": "The Blackbox bedroom view"
+    },
+    {
+      "src": "/blackbox/bedroom-alt-2.jpg",
+      "alt": "The Blackbox alternative bedroom view"
+    },
+    {
+      "src": "/blackbox/bed-to-bathroom.jpg",
+      "alt": "The Blackbox bed to bathroom view"
+    },
+    {
+      "src": "/blackbox/kitchen.jpg",
+      "alt": "The Blackbox fully equipped kitchen"
+    },
+    {
+      "src": "/blackbox/bathroom.jpg",
+      "alt": "The Blackbox bathroom"
+    },
+    
+    {
+      "src": "/blackbox/deco.jpg",
+      "alt": "The Blackbox bathroom"
+    },
+    {
+      "src": "/blackbox/bathroom-alt-2.jpg",
+      "alt": "The Blackbox alternative bathroom"
+    },
+    
+    {
+      "src": "/blackbox/books.jpg",
+      "alt": "The Blackbox bathroom"
+    },
+    {
+      "src": "/blackbox/wifi.jpg",
+      "alt": "The Blackbox bathroom"
+    },
+    {
+      "src": "/blackbox/hallway.jpg",
+      "alt": "The Blackbox alternative bathroom"
+    },
+    {
+      "src": "/blackbox/outside-1.jpg",
+      "alt": "The Blackbox front view"
+    },
+    {
+      "src": "/blackbox/outside-alt.jpg",
+      "alt": "The Blackbox alternative front view"
+    }
+  ],
+  "otherVilla": {
+    "name": "The Blackbox",
+    "slug": "blackbox"
+  }
+}

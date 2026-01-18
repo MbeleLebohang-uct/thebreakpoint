@@ -1,0 +1,12 @@
+# Ignore artifacts:
+node_modules
+.next
+build
+dist
+out
+coverage
+public
+.vercel
+.turbo
+.env*
+!.env.example 
