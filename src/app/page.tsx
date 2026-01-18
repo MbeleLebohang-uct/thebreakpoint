@@ -164,7 +164,7 @@ export default function Home() {
             Book A Night Stay
           </h2>
           <p className='text-brand-font mx-auto mb-8 max-w-3xl text-lg'>
-            Perfect for larger travellers driving across South Africa through the
+            Perfect for travellers driving across South Africa through the
             Karoo. Get a good night's sleep and be ready for the next day's journey.
           </p>
           <div className='mb-8 flex flex-col items-center justify-center gap-4 sm:flex-row'>
