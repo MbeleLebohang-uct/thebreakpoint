@@ -91,7 +91,7 @@ export default function Home() {
         <div className='grid min-h-[600px] grid-cols-1 lg:grid-cols-2'>
           <div className='relative min-h-[400px] lg:min-h-full'>
             <Image
-              src='/area/location-pin.png'
+              src='/area/location-pin.jpg'
               alt='Beautiful Beaufort West, Karoo location with stunning Karoo views'
               fill
               className='object-cover'
