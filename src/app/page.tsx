@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     'Discover comfortable accommodation at The Breakpoint Guest House in Beaufort West, Karoo, Western Cape, South Africa. Just 6km from the Karoo National Park.',
   keywords: [
     'The Breakpoint',
-    'luxury accommodation Hermanus',
+    'Comfortable accommodation Beaufort West',
     'Beaufort West accommodation',
     'Karoo National Park',
     'Western Cape accommodation',

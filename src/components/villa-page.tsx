@@ -221,7 +221,7 @@ export const VillaPage = ({ villaData, villaSlug }: VillaPageProps) => {
             {villaSlug === 'mignon'
               ? 'an intimate sanctuary where luxury meets tranquility'
               : 'the perfect blend of luxury, comfort, and natural beauty'}{' '}
-            in the heart of Hermanus.
+            in the heart of Beaufort West.
           </p>
           <div className='flex flex-col items-center justify-center gap-4 sm:flex-row'>
             <Button asChild size='lg' className='md:min-w-[200px] px-8 py-6 text-lg'>

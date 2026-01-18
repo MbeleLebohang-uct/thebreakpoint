@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     siteName: 'The Breakpoint',
     images: [
       {
-        url: '/area/hermanus-aerial.jpg',
+        url: '/area/location-pin.jpg',
         width: 1200,
         height: 630,
         alt: 'The Breakpoint - Accommodation in Beaufort West, Karoo',
@@ -60,7 +60,7 @@ export const metadata: Metadata = {
     title: 'The Breakpoint - Accommodation in Beaufort West, Karoo',
     description:
       'Experience comfortable accommodation at The Breakpoint Guest House in Beaufort West, Karoo, Western Cape, South Africa. Just 6km from the Karoo National Park.',
-    images: ['/area/hermanus-aerial.jpg'],
+    images: ['/area/location-pin.jpg'],
     creator: '@thebreakpointguesthouse',
   },
 
