@@ -52,7 +52,7 @@ export function ReserveStay() {
                   className='w-full md:w-auto md:min-w-[200px] px-12 py-6 text-lg mb-4'
                 >
                   <Link
-                    href='https://www.airbnb.com/h/thebreakpoint'
+                    href='https://www.airbnb.co.za/h/thebreakpoint-guesthouse'
                     target='_blank'
                     rel='noopener noreferrer'
                     className='flex items-center justify-center gap-2'
