@@ -119,6 +119,18 @@ export default function RootLayout({
   return (
     <html lang='en'>
       <body className={`${hankenGrotesk.variable} font-sans antialiased`}>
+        <Script
+          src='https://www.googletagmanager.com/gtag/js?id=G-G940J0PW1C'
+          strategy='afterInteractive'
+        />
+        <Script id='google-analytics' strategy='afterInteractive'>
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-G940J0PW1C');
+          `}
+        </Script>
         <StructuredData type='Organization' />
         <StructuredData type='WebSite' />
         <Navbar />
