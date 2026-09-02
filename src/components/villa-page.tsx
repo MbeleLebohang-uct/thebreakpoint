@@ -101,7 +101,7 @@ export const VillaPage = ({ villaData, villaSlug }: VillaPageProps) => {
 
                   <Button asChild size='lg' className='md:min-w-[200px] px-8 py-6 text-lg'>
                     <Link
-                      href='https://www.airbnb.com/h/thebreakpoint'
+                      href='https://www.airbnb.co.za/h/thebreakpoint-guesthouse'
                       target='_blank'
                       rel='noopener noreferrer'
                       className='flex items-center justify-center gap-2'
@@ -226,7 +226,7 @@ export const VillaPage = ({ villaData, villaSlug }: VillaPageProps) => {
           <div className='flex flex-col items-center justify-center gap-4 sm:flex-row'>
             <Button asChild size='lg' className='md:min-w-[200px] px-8 py-6 text-lg'>
               <Link
-                href='https://www.airbnb.com/h/thebreakpoint'
+                href='https://www.airbnb.co.za/h/thebreakpoint-guesthouse'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='flex items-center justify-center gap-2'
