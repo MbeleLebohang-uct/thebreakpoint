@@ -11,46 +11,56 @@
   ],
   "galleryImages": [
     {
-      "src": "/blackbox/bedroom.jpg",
+      "src": "/blackbox/bedroom.jpeg",
       "alt": "The Blackbox bedroom view"
     },
     {
-      "src": "/blackbox/bedroom-alt-2.jpg",
-      "alt": "The Blackbox alternative bedroom view"
+      "src": "/blackbox/bed-front.jpg",
+      "alt": "The Blackbox four-poster bed"
     },
     {
-      "src": "/blackbox/bed-to-bathroom.jpg",
-      "alt": "The Blackbox bed to bathroom view"
+      "src": "/blackbox/bed-close-up-right.jpg",
+      "alt": "The Blackbox bed with vintage aviation art"
     },
     {
-      "src": "/blackbox/kitchen.jpg",
-      "alt": "The Blackbox fully equipped kitchen"
+      "src": "/blackbox/door.jpg",
+      "alt": "The Blackbox bedroom looking toward the door"
+    },
+    {
+      "src": "/blackbox/olive-kitchen.jpg",
+      "alt": "The Blackbox kitchenette with microwave and fridge"
     },
     {
       "src": "/blackbox/bathroom.jpg",
-      "alt": "The Blackbox bathroom"
+      "alt": "The Blackbox bathroom with patterned tiling"
     },
-    
     {
-      "src": "/blackbox/deco.jpg",
-      "alt": "The Blackbox bathroom"
+      "src": "/blackbox/bathroom-alt.jpg",
+      "alt": "The Blackbox shower"
     },
     {
       "src": "/blackbox/bathroom-alt-2.jpg",
-      "alt": "The Blackbox alternative bathroom"
+      "alt": "The Blackbox bathroom sink"
     },
-    
+    {
+      "src": "/blackbox/karoo-pillow.jpg",
+      "alt": "Made in the Karoo pillow detail"
+    },
+    {
+      "src": "/blackbox/deco.jpeg",
+      "alt": "The Blackbox decor detail"
+    },
     {
       "src": "/blackbox/books.jpg",
-      "alt": "The Blackbox bathroom"
+      "alt": "The Blackbox bedside books and games"
     },
     {
-      "src": "/blackbox/wifi.jpg",
-      "alt": "The Blackbox bathroom"
+      "src": "/blackbox/wifi.jpeg",
+      "alt": "Fast, reliable WiFi in the Blackbox"
     },
     {
       "src": "/blackbox/hallway.jpg",
-      "alt": "The Blackbox alternative bathroom"
+      "alt": "The Blackbox hallway to the entrance"
     },
     {
       "src": "/blackbox/outside-1.jpg",
@@ -58,7 +68,7 @@
     },
     {
       "src": "/blackbox/outside-alt.jpg",
-      "alt": "The Blackbox alternative front view"
+      "alt": "The Blackbox aerial view"
     }
   ],
   "otherVilla": {

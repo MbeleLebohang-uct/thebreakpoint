@@ -69,7 +69,7 @@ export const VillaPage = ({ villaData, villaSlug }: VillaPageProps) => {
           <div className='relative h-[60vh] md:h-[70vh] lg:h-[80vh]'>
             <Image
               src={
-                processedVillaData.galleryImages[0]?.src || '/blackbox/bedroom.jpg'
+                processedVillaData.galleryImages[0]?.src || '/blackbox/bedroom.jpeg'
               }
               alt={
                 processedVillaData.galleryImages[0]?.alt ||

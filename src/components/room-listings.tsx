@@ -18,7 +18,7 @@ const rooms = [
     id: 1,
     name: 'The Blackbox',
     subtitle: 'Spacious Karoo Living',
-    image: '/blackbox/bedroom.jpg',
+    image: '/blackbox/bedroom.jpeg',
     description:
       'Thoughtfully designed for those who appreciate space and tranquility. This spacious room offers a sanctuary just moments from the Karoo National Park.',
     features: [

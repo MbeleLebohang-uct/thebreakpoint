@@ -35,7 +35,7 @@ export async function generateMetadata(): Promise<Metadata> {
       siteName: 'The Breakpoint',
       images: [
         {
-          url: `${baseUrl}/blackbox/bedroom.jpg`,
+          url: `${baseUrl}/blackbox/bedroom.jpeg`,
           width: 1200,
           height: 630,
           alt: villaData.galleryImages[0].alt,
@@ -44,7 +44,7 @@ export async function generateMetadata(): Promise<Metadata> {
           url: `${baseUrl}/blackbox/outside-1.jpg`,
           width: 1200,
           height: 630,
-          alt: villaData.galleryImages[2].alt,
+          alt: villaData.galleryImages.find((img) => img.src === '/blackbox/outside-1.jpg')!.alt,
         },
       ],
       locale: 'en_ZA',
@@ -56,7 +56,7 @@ export async function generateMetadata(): Promise<Metadata> {
       card: 'summary_large_image',
       title: `${villaData.name} - ${villaData.subtitle}`,
       description: villaData.description,
-      images: [`${baseUrl}/blackbox/bedroom.jpg`],
+      images: [`${baseUrl}/blackbox/bedroom.jpeg`],
       creator: '@thebreakpointguesthouse',
     },
 
